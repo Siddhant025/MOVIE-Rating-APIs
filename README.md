@@ -13,4 +13,4 @@ IMDB rating generator
 * Clone This Repo
 * Install VirtualEnv with Python2.7 because unirest is deprecated for Python3
 * Run this Command <code>pip install -r requirements.txt</code>
-* Run <code>python Movie.py</code> in Terminal
+* Run <code>python movie.py</code> in Terminal
